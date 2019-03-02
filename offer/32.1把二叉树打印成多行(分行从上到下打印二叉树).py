@@ -1,4 +1,8 @@
 # -*- coding:utf-8 -*-
+"""
+题目描述
+从上到下按层打印二叉树，同一层结点从左至右输出。每一层输出一行。
+"""
 # class TreeNode:
 #     def __init__(self, x):
 #         self.val = x
