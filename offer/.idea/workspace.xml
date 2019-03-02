@@ -11,26 +11,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="23.链表中环的入口结点.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/23.链表中环的入口结点.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="37" lean-forward="false" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="24.反转链表.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/24.反转链表.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="25.合并两个排序的链表.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/25.合并两个排序的链表.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -46,16 +26,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="20.表示数值的字符串.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20.表示数值的字符串.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -81,11 +51,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="29.顺时针打印矩阵.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="29.顺时针打印矩阵.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/29.顺时针打印矩阵.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="522">
               <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="32.从上到下打印二叉树.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/32.从上到下打印二叉树.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="32.1把二叉树打印成多行(分行从上到下打印二叉树).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/32.1把二叉树打印成多行(分行从上到下打印二叉树).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="37" column="18" lean-forward="false" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="32.2按之字形顺序打印二叉树.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/32.2按之字形顺序打印二叉树.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -174,10 +174,14 @@
         <option value="$PROJECT_DIR$/29.顺时针打印矩阵.py" />
         <option value="$PROJECT_DIR$/30.包含min函数的栈.py" />
         <option value="$PROJECT_DIR$/31.栈的压入、弹出序列.py" />
+        <option value="$PROJECT_DIR$/32.从上到下打印二叉树.py" />
+        <option value="$PROJECT_DIR$/32.1把二叉树打印成多行.py" />
+        <option value="$PROJECT_DIR$/32.2按之字形顺序打印二叉树.py" />
+        <option value="$PROJECT_DIR$/32.1把二叉树打印成多行(分行从上到下打印二叉树).py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="687" />
     <option name="width" value="1336" />
     <option name="height" value="1030" />
@@ -353,7 +357,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="687" y="0" width="1336" height="1030" extended-state="1" />
+    <frame x="687" y="0" width="1336" height="1030" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18828125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -385,30 +389,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/7.重建二叉树.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8.二叉树的下一个结点.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9.用两个栈实现队列.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/9.1用两个队列实现栈.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="891">
@@ -752,6 +732,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="33" column="18" lean-forward="true" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/32.从上到下打印二叉树.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/32.1把二叉树打印成多行(分行从上到下打印二叉树).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="37" column="18" lean-forward="false" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/32.2按之字形顺序打印二叉树.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
