@@ -1,4 +1,4 @@
-#
+#-
 class Solution:
     def merge(self, left, right):
         i, j = 0, 0
