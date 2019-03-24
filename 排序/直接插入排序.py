@@ -17,15 +17,15 @@ class Solution:
                 nums[j+1] = tmp
         return nums
 
-# nums = []
-# print(Solution().insertSort(nums))
-# nums = [1]
-# print(Solution().insertSort(nums))
-# nums = [1,2,3]
-# print(Solution().insertSort(nums))
-# nums = [4,3,2,1]
-# print(Solution().insertSort(nums))
-# nums = [3,1,2,4,3,0]
-# print(Solution().insertSort(nums))
+nums = []
+print(Solution().insertSort(nums))
+nums = [1]
+print(Solution().insertSort(nums))
+nums = [1,2,3]
+print(Solution().insertSort(nums))
+nums = [4,3,2,1]
+print(Solution().insertSort(nums))
+nums = [3,1,2,4,3,0]
+print(Solution().insertSort(nums))
 nums = [1,4,5,6,3,4]
 print(Solution().insertSort(nums))
