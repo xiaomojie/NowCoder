@@ -24,7 +24,7 @@ class Solution:
                     self.moving(threshold, rows, cols, row + 1, col, visited)
         return count
 
-    def check(self, threshold, row,col):
+    def check(self, threshold, row, col):
         index_sum = 0
         while row:
             index_sum += row % 10
