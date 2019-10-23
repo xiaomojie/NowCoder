@@ -37,11 +37,13 @@ class Solution:
             cur = cur.next.next
         # 将新链表抽出来
         head = cur = pHead.next
-        old = pHead.next.next
+        pHead.next = cur.next
+        old = pHead.next
         while old:
             cur.next = old.next
             cur = cur.next
-            old = old.next.next
+            old.next = cur.next
+            old = old.next
         return head
 
 # 测试：
